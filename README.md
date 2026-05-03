@@ -1,6 +1,6 @@
 # lnpg-cap8-selecao
-Discente: Léo Bernardo da Silva Santos
-Atividade prática do Capítulo 8, Estruturas de Seleção.
+Discente: Léo Bernardo da Silva Santos;
+Atividade prática do Capítulo 8, Estruturas de Seleção;
 /respostas/
 LLM usado: Grok.
 q1_loops.md:
